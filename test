@@ -1,0 +1,9 @@
+
+coutner = 0
+
+string.each |word|
+if word 
+
+def greet(name)
+  puts "Hello, #{name}"
+end
